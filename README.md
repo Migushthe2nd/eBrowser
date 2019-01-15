@@ -3,8 +3,10 @@ Redirects the eShop's error page (when using a dns to block Nintendo's servers, 
 
 Here's a little mod I made to be able to enjoy and use the internal browser. This probably is only for people who block Nintendo's servers. 
 This just replaces one out of three errorpages with a page that rediricts to google.com, and replaces the original eShop domain whitelist to allow all domains.
+There also is a modified version of the loading screen, but sharing that would be illegal. It can be found somewhere in a Discord tho
 
-* The eShop unfortunately still starts loading until it times out. I'll see if there's a fix for that in the future.
+* The eShop unfortunately still starts loading until it times out. I'll see if there's a fix for that in the future. 
+Edit: the os seems to block touch and controller input except for the homebutton, so you still can't navigate while it is loading in the background
 * Screenshots cannot be taken
 * No cursor, only the select box.
 
