@@ -11,8 +11,8 @@ Edit: the os seems to block touch and controller input except for the homebutton
 
 Installation: Put the two folders in your `sdmc://[your cfw (atmosphere/reinx/sxos)]/titles` folder and make sure you have LayeredFS enabled.
 You can change the icon of the eShop by modifying __Combined.bntx in ResidentMenu.szs.
-See https://gbatemp.net/threads/tutorial-qlaunch-custom-menue-icons.519249/ for more info.
-It is also possible to change the launch sound, but for that you'd have to edit qlaunch.bfsar and replace qlaunch_0000004B.bfwav.
-There also is a modified version of the loading screen, but sharing that would be illegal. It can be found somewhere in a Discord tho
+See https://gbatemp.net/threads/tutorial-qlaunch-custom-menue-icons.519249/ for more info.  
+It is also possible to change the launch sound, but for that you'd have to edit qlaunch.bfsar and replace qlaunch_0000004B.bfwav.  
+There also is a modified version of the loading screen, but sharing that would be illegal. It can be found somewhere in a Discord tho.  
 You also need to have a Nintendo ID linked to a user, else you can't even open the eShop.
 ![Image](https://cdn.discordapp.com/attachments/272399519570722826/535079649856716811/unknown.png)
