@@ -10,7 +10,7 @@ Edit: the os seems to block touch and controller input except for the homebutton
 * No cursor, only the select box.
   
 **A Nintendo ID has to be linked to a user, else you can't launch the eBrowser applet. For those who don't have such an account, heres a zip that can help. Idk who originally extracted this. Originally downloaded from GBATemp.  
-6.1 ONLY (but reports say 6.2.0 also works sometimes) + MAKE A NAND BACKUP BEFORE PROCEEDING!
+Should be 6.1 only, but 6.2.0 seems to work too for some users + MAKE A NAND BACKUP BEFORE PROCEEDING!
 https://drive.google.com/file/d/1-A9_ASsoOoKIsHyBp97QPjXzTYwHkXxj/view?usp=sharing**
   
 Installation: Put the two folders in your `sdmc://[your cfw (atmosphere/reinx/sxos)]/titles` folder and make sure you have LayeredFS enabled.
