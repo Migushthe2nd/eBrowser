@@ -9,6 +9,8 @@ Edit: the os seems to block touch and controller input except for the homebutton
 * Screenshots cannot be taken
 * No cursor, only the select box.
 
+A Nintendo ID has to be linked to a user, else you can't launch the eBrowser applet. For those who don't have such an account, heres a zip that can help. Idk who originally extracted this. Originally downloaded from GBATemp.
+
 Installation: Put the two folders in your `sdmc://[your cfw (atmosphere/reinx/sxos)]/titles` folder and make sure you have LayeredFS enabled.
 You can change the icon of the eShop by modifying __Combined.bntx in ResidentMenu.szs.
 See https://gbatemp.net/threads/tutorial-qlaunch-custom-menue-icons.519249/ for more info.  
