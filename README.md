@@ -9,14 +9,12 @@ Edit: the os seems to block touch and controller input except for the homebutton
 * Screenshots cannot be taken
 * No cursor, only the select box.
   
-**A Nintendo ID has to be linked to a user, else you can't launch the eBrowser applet. For those who don't have such an account, heres a zip that can help. Idk who originally extracted this. Originally downloaded from GBATemp.  
-Should be 6.1 only, but 6.2.0 seems to work too for some users + MAKE A NAND BACKUP BEFORE PROCEEDING!
-https://drive.google.com/file/d/1-A9_ASsoOoKIsHyBp97QPjXzTYwHkXxj/view?usp=sharing**
+**If you want to use the above eBrowser you need a Nintendo Account connected to a user. For those who don't have such an account, you should use Xortroll's Browser in Goldleaf, but then you can't launch it via the eShop applet. For those who're willing to take the risk:  Idk who originally extracted this, but thanks to FuryBagguette and Hippy Dave for providing links. **Should be 6.1 only, but 6.2.0 seems to work too for some users + MAKE A NAND BACKUP BEFORE PROCEEDING!**  
+Original download from GBATemp https://drive.google.com/file/d/1-A9_ASsoOoKIsHyBp97QPjXzTYwHkXxj/view?usp=sharing**
   
 Installation: Put the two folders in your `sdmc://[your cfw (atmosphere/reinx/sxos)]/titles` folder and make sure you have LayeredFS enabled.
 You can change the icon of the eShop by modifying __Combined.bntx in ResidentMenu.szs.
 See https://gbatemp.net/threads/tutorial-qlaunch-custom-menue-icons.519249/ for more info.  
 It is also possible to change the launch sound, but for that you'd have to edit qlaunch.bfsar and replace qlaunch_0000004B.bfwav.  
 There also is a modified version of the loading screen, but sharing that would be illegal. It can be found somewhere in a Discord tho.  
-You also need to have a Nintendo ID linked to a user, else you can't even open the eShop.
 ![Image](https://cdn.discordapp.com/attachments/272399519570722826/535079649856716811/unknown.png)
