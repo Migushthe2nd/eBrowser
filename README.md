@@ -16,5 +16,5 @@ Installation: Put the two folders in your `sdmc://[your cfw (atmosphere/reinx/sx
 You can change the icon of the eShop by modifying __Combined.bntx in ResidentMenu.szs.
 See https://gbatemp.net/threads/tutorial-qlaunch-custom-menue-icons.519249/ for more info.  
 It is also possible to change the launch sound, but for that you'd have to edit qlaunch.bfsar and replace qlaunch_0000004B.bfwav.  
-There also is a modified version of the loading screen, but sharing that would be illegal. It can be found somewhere in a Discord tho.  
+There also is a modified version of the loading screen, but sharing that would be illegal. It can be found somewhere in a Discord tho (Qcean) 
 ![Image](https://cdn.discordapp.com/attachments/272399519570722826/535079649856716811/unknown.png)
