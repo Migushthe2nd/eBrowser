@@ -1,4 +1,4 @@
-# eBrowserMod
+# eBrowser
 Redirects the eShop's error page (when using a dns to block Nintendo's servers, for example 90DNS) to https://dns.switchbru.com/ (This is not my website)
   
 Here's a little mod I made to be able to enjoy and use the internal browser. This probably is only for people who block Nintendo's servers. SXOS' Steal Mode does not work with this.
